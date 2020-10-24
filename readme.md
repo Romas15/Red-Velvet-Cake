@@ -1,1 +1,1 @@
-This is my cake recipe. Project 26.
+This is my cake recipe.
